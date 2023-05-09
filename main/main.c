@@ -1,7 +1,6 @@
 #include "driver/gpio.h"
 #include "driver/adc.h"
 #include "esp_timer.h"
-#include <rom/ets_sys.h>
 #include "freertos/FreeRTOS.h"
 #include "freertos/task.h"
 
