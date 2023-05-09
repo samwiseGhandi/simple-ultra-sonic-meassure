@@ -7,7 +7,7 @@
     },
     "idf.espIdfPath": "/home/sami/esp/esp-idf",
     "idf.openOcdConfigs": [
-        "board/esp32-wrover-kit-3.3v.cfg"
+        "board/esp32-ethernet-kit-3.3v.cfg"
     ],
     "idf.pythonBinPath": "/home/sami/.espressif/python_env/idf4.4_py3.10_env/bin/python",
     "idf.toolsPath": "/home/sami/.espressif",
